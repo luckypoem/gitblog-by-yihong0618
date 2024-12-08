@@ -4,5 +4,6 @@ My personal blog([About Me](https://github.com/yihong0618/gitblog/issues/282)) u
 [RSS Feed](https://raw.githubusercontent.com/luckypoem/gitblog-by-yihong0618/master/feed.xml)
 
 ## 最近更新
+- [冬日平泉路晚归 作者：白居易](https://github.com/luckypoem/gitblog-by-yihong0618/issues/3)--2024-12-08
 - [蘇暁康：揽炒 （揽炒，粤语，意思是同归于尽）](https://github.com/luckypoem/gitblog-by-yihong0618/issues/2)--2024-12-08
 - [测试](https://github.com/luckypoem/gitblog-by-yihong0618/issues/1)--2024-12-08
